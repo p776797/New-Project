@@ -1,2 +1,0 @@
-# New-Project
-Git Tutorial
